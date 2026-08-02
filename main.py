@@ -294,7 +294,7 @@ class BanAppealStaffView(discord.ui.View):
                text="Sakura • Lucent Moderation"
             )
 
-              dm_embed.add_field(
+            dm_embed.add_field(
               name="🔗 Submit an Appeal",
               value="https://bakushin-bot.onrender.com/appeal",
               inline=False
