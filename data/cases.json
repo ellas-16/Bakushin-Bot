@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "guild_id": 1532452151383818451,
+        "user_id": 1322645217337413653,
+        "moderator_id": 765924526512537630,
+        "action": "Warn",
+        "reason": "12",
+        "duration": null,
+        "timestamp": "2026-07-30T18:47:32.523445"
+    },
+    {
+        "id": 2,
+        "guild_id": 1532452151383818451,
+        "user_id": 1322645217337413653,
+        "moderator_id": 765924526512537630,
+        "action": "Warn",
+        "reason": "aaa",
+        "duration": null,
+        "timestamp": "2026-07-31T09:26:19.105715"
+    },
+    {
+        "id": 4,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Hush",
+        "reason": "testing",
+        "duration": "10m",
+        "timestamp": "2026-07-31T12:29:42.353492"
+    },
+    {
+        "id": 5,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Unhush",
+        "reason": "Hush removed manually.",
+        "duration": null,
+        "timestamp": "2026-07-31T12:30:46.784680"
+    },
+    {
+        "id": 6,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Hush",
+        "reason": "No reason provided.",
+        "duration": "5h",
+        "timestamp": "2026-07-31T12:39:08.367069"
+    },
+    {
+        "id": 7,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Unhush",
+        "reason": "Hush removed manually.",
+        "duration": null,
+        "timestamp": "2026-07-31T12:39:28.161426"
+    },
+    {
+        "id": 8,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Assassinate",
+        "reason": "Member assassinated.",
+        "duration": null,
+        "timestamp": "2026-07-31T13:11:47.169965"
+    },
+    {
+        "id": 9,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "Member exiled.",
+        "duration": null,
+        "timestamp": "2026-07-31T13:15:26.871835"
+    },
+    {
+        "id": 10,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "Member exiled.",
+        "duration": null,
+        "timestamp": "2026-07-31T13:20:59.292659"
+    },
+    {
+        "id": 11,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "Member exiled.",
+        "duration": null,
+        "timestamp": "2026-07-31T13:30:23.590315"
+    },
+    {
+        "id": 12,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "Member exiled.",
+        "duration": null,
+        "timestamp": "2026-07-31T13:32:51.103687"
+    },
+    {
+        "id": 13,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "kawaii",
+        "duration": null,
+        "timestamp": "2026-07-31T13:37:27.276710"
+    },
+    {
+        "id": 14,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "kawiii kuun",
+        "duration": null,
+        "timestamp": "2026-07-31T13:43:08.020911"
+    },
+    {
+        "id": 15,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "1",
+        "duration": null,
+        "timestamp": "2026-07-31T13:43:18.908250"
+    },
+    {
+        "id": 16,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "kawaii!!",
+        "duration": null,
+        "timestamp": "2026-07-31T13:45:41.754028"
+    },
+    {
+        "id": 17,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "kawaiii!",
+        "duration": null,
+        "timestamp": "2026-07-31T13:47:17.136319"
+    },
+    {
+        "id": 18,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "kawaii and sexy",
+        "duration": null,
+        "timestamp": "2026-07-31T13:49:58.877192"
+    },
+    {
+        "id": 19,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T13:53:02.202277"
+    },
+    {
+        "id": 20,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "heloo",
+        "duration": null,
+        "timestamp": "2026-07-31T13:57:49.449132"
+    },
+    {
+        "id": 21,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "easdw",
+        "duration": null,
+        "timestamp": "2026-07-31T14:02:16.137455"
+    },
+    {
+        "id": 22,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "67678===D",
+        "duration": null,
+        "timestamp": "2026-07-31T14:04:29.944912"
+    },
+    {
+        "id": 23,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:07:01.854765"
+    },
+    {
+        "id": 24,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:11:18.828487"
+    },
+    {
+        "id": 25,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "tes eapl",
+        "duration": null,
+        "timestamp": "2026-07-31T14:15:32.226169"
+    },
+    {
+        "id": 26,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:18:57.136955"
+    },
+    {
+        "id": 27,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:20:52.426614"
+    },
+    {
+        "id": 28,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:24:02.395913"
+    },
+    {
+        "id": 29,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:28:59.020730"
+    },
+    {
+        "id": 30,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "<@1363276370284777533>",
+        "duration": null,
+        "timestamp": "2026-07-31T14:33:24.039486"
+    },
+    {
+        "id": 31,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T14:39:05.613801"
+    },
+    {
+        "id": 32,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T15:43:58.077422"
+    },
+    {
+        "id": 33,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T15:46:38.659248"
+    },
+    {
+        "id": 34,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T15:48:25.621842"
+    },
+    {
+        "id": 35,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T15:55:06.402239"
+    },
+    {
+        "id": 36,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "1235",
+        "duration": null,
+        "timestamp": "2026-07-31T15:57:42.715503"
+    },
+    {
+        "id": 37,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T16:11:00.795896"
+    },
+    {
+        "id": 38,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "125123",
+        "duration": null,
+        "timestamp": "2026-07-31T16:14:20.284129"
+    },
+    {
+        "id": 39,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T16:22:25.335575"
+    },
+    {
+        "id": 40,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T16:25:56.324425"
+    },
+    {
+        "id": 41,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "1235123512356123",
+        "duration": null,
+        "timestamp": "2026-07-31T16:32:45.646463"
+    },
+    {
+        "id": 42,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "123512",
+        "duration": null,
+        "timestamp": "2026-07-31T16:37:38.927121"
+    },
+    {
+        "id": 43,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T16:41:55.945309"
+    },
+    {
+        "id": 44,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-07-31T17:01:02.435630"
+    },
+    {
+        "id": 45,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "1245",
+        "duration": null,
+        "timestamp": "2026-07-31T17:03:37.182364"
+    },
+    {
+        "id": 46,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "125",
+        "duration": null,
+        "timestamp": "2026-07-31T17:11:53.823680"
+    },
+    {
+        "id": 47,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T10:17:42.683795"
+    },
+    {
+        "id": 48,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T10:41:02.417191"
+    },
+    {
+        "id": 49,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T10:50:35.468639"
+    },
+    {
+        "id": 50,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T10:56:11.591956"
+    },
+    {
+        "id": 51,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T10:58:40.513267"
+    },
+    {
+        "id": 52,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T11:06:28.415300"
+    },
+    {
+        "id": 53,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T11:25:35.540344"
+    },
+    {
+        "id": 54,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T11:29:10.029163"
+    },
+    {
+        "id": 55,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T11:39:01.101997"
+    },
+    {
+        "id": 56,
+        "guild_id": 1532452151383818451,
+        "user_id": 1446500611309834375,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-01T11:47:27.083562"
+    },
+    {
+        "id": 57,
+        "guild_id": 1532452151383818451,
+        "user_id": 1363276370284777533,
+        "moderator_id": 765924526512537630,
+        "action": "Exile",
+        "reason": "No reason provided.",
+        "duration": null,
+        "timestamp": "2026-08-02T15:40:09.019203"
+    }
+]
