@@ -38,9 +38,11 @@ def run_web():
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
 
+threading.Thread(target=run_web, daemon=True).start()
+
 
 APPEAL_CHANNEL_ID = 1532742444922179744
-APPEAL_WEB_URL = "http://127.0.0.1:5000"
+APPEAL_WEB_URL = "https://bakushin-bot.onrender.com"
 
 # ============================================================
 # BOT SETUP
