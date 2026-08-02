@@ -1065,20 +1065,21 @@ async def exile(
                 url=ctx.guild.icon.url
             )
 
-       embed.set_footer(
-           text="Sakura • Lucent Moderation"
-            )
 
-       dm_embed.add_field(
-           name="🔗 Submit an Appeal",
-           value="https://bakushin-bot.onrender.com/appeal",
-           inline=False
-           )
+            embed.set_footer(
+            text="Sakura • Lucent Moderation"
+        )
 
-           await member.send(
-           embed=dm_embed
-           
-           )
+        dm_embed.add_field(
+            name="🔗 Submit an Appeal",
+            value="https://bakushin-bot.onrender.com/appeal",
+            inline=False
+        )
+
+        await member.send(
+            embed=dm_embed
+        )
+        
     except discord.Forbidden:
         dm_sent = False
 
