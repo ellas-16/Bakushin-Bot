@@ -1,6 +1,8 @@
 import asyncio
 import os
 import requests
+import threading
+from flask import Flask
 
 import discord
 from discord.ext import commands
@@ -26,10 +28,19 @@ from utils.checks import (
     ensure_staff,
 )
 
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Sakura Bot is online!"
+
+def run_web():
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
+
 
 APPEAL_CHANNEL_ID = 1532742444922179744
 APPEAL_WEB_URL = "http://127.0.0.1:5000"
-
 
 # ============================================================
 # BOT SETUP
@@ -1410,4 +1421,6 @@ async def main():
     await bot.start(TOKEN)
 
 
-asyncio.run(main())
+if __name__ == "__main__":
+    threading.Thread(target=run_web, daemon=True).start()
+    asyncio.run(main())
