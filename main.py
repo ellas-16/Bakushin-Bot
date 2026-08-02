@@ -291,7 +291,13 @@ class BanAppealStaffView(discord.ui.View):
             )
 
             dm_embed.set_footer(
-                text="Sakura • Lucent Moderation"
+               text="Sakura • Lucent Moderation"
+            )
+
+              dm_embed.add_field(
+              name="🔗 Submit an Appeal",
+              value="https://bakushin-bot.onrender.com/appeal",
+              inline=False
             )
 
             await user.send(embed=dm_embed)
@@ -1059,15 +1065,20 @@ async def exile(
                 url=ctx.guild.icon.url
             )
 
-        dm_embed.set_footer(
-            text="Sakura • Lucent Moderation"
-        )
+       embed.set_footer(
+           text="Sakura • Lucent Moderation"
+            )
 
-        await member.send(
-            embed=dm_embed,
-            view=BanAppealView(),
-        )
+       dm_embed.add_field(
+           name="🔗 Submit an Appeal",
+           value="https://bakushin-bot.onrender.com/appeal",
+           inline=False
+           )
 
+           await member.send(
+           embed=dm_embed
+           
+           )
     except discord.Forbidden:
         dm_sent = False
 
