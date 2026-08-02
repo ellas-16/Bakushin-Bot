@@ -151,10 +151,10 @@ class BanAppealView(discord.ui.View):
     def __init__(self):
         super().__init__(timeout=None)
 
-    @discord.ui.button(
-        label="📨 Submit Appeal",
-        style=discord.ButtonStyle.primary,
-        custom_id="sakura_ban_appeal",
+    discord.ui.Button(
+        label="Submit Appeal",
+        style=discord.ButtonStyle.link,
+        url=APPEAL_WEB_URL
     )
     async def appeal_button(
         self,
